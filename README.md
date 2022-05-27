@@ -1,6 +1,6 @@
-#My documentation
+# My documentation
 
-####How to run.
+#### How to run.
 - Step 1 run the below command
 ```bash
 rustc program.rc
@@ -14,4 +14,6 @@ rustc program.rc
     println!("Hello, world!");
     }
   ```
-  
+- [x] Test 1
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Test 2
